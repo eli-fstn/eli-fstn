@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-    <h2>Languages I''m Comfortable Using</h2>
+    <h2>Languages I'm Familiar With/h2>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/html" target="_blank" title="HTML5"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/css" target="_blank" title="CSS3"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Javascript"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
@@ -17,7 +17,7 @@
 	<a href="https://github.com/eli-fstn" title="SQL"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 </div>
 	<div align="center">
-	    <h2>Dev Tools I Use</h2>
+	    <h2>Tools I Work With</h2>
 		<a href="https://code.visualstudio.com" target="_blank" title="Visual Studio Code"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
 		<a href="https://www.jetbrains.com/pycharm/" target="_blank" title="Pycharm"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"></a>
 		<a href="https://www.figma.com/" target="_blank" title="Pycharm"><img width="50px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
