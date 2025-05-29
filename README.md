@@ -16,7 +16,7 @@
 	<a href="https://github.com/eli-fstn" title="Python"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
 	<a href="https://github.com/eli-fstn" title="SQL"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></a>
 </div>
-<div>
+<div align="center">
     <h2>Libraries / Frameworks</h2>
 	<a href="https://github.com/eli-fstn" title="Tailwind"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></a>
 	<a href="https://github.com/eli-fstn" title="OpenCV"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"></a>
